@@ -15,4 +15,4 @@ jobs :
               - name: installing dependencies
                 run: pip install pandas
               - name: run python program
-                run: python extrct_data.py
+                run: python extract_data.py
